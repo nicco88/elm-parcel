@@ -1,0 +1,11 @@
+{
+  "modules": true,
+  "plugins": {
+    "autoprefixer": {
+      "grid": true
+    },
+    "postcss-import": {},
+    "postcss-nested": {},
+    "postcss-simple-vars": {},
+  }
+}
